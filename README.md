@@ -8,5 +8,5 @@ This way, a facial model is constructed where a variety of different variables c
 
 <img width="800" height="500" src="https://github.com/ilaydacelikk/Chernoff-/assets/139812573/957bde16-ee3f-47b7-ad2d-3150cd0452b1">
 
-<img width="400" height="400" src="https://github.com/ilaydacelikk/Chernoff-/assets/139812573/bfc8b006-d097-4b7c-89a4-abc1d9f530c6">
+<img width="300" height="300" src="https://github.com/ilaydacelikk/Chernoff-/assets/139812573/bfc8b006-d097-4b7c-89a4-abc1d9f530c6">
 
