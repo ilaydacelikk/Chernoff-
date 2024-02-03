@@ -6,4 +6,7 @@ Chernoff faces are created by assigning facial features to each variable.
 For example, the size of the eyes might represent the magnitude of one variable, while the shape of the mouth could represent the magnitude of another variable. 
 This way, a facial model is constructed where a variety of different variables can be represented simultaneously.
 
-<img width="1000" height="600" src="https://github.com/ilaydacelikk/Chernoff-/assets/139812573/957bde16-ee3f-47b7-ad2d-3150cd0452b1">
+<img width="900" height="600" src="https://github.com/ilaydacelikk/Chernoff-/assets/139812573/957bde16-ee3f-47b7-ad2d-3150cd0452b1">
+
+<img width="900" height="600" src="https://github.com/ilaydacelikk/Chernoff-/assets/139812573/bfc8b006-d097-4b7c-89a4-abc1d9f530c6">
+
