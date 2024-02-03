@@ -8,4 +8,4 @@ while the shape of the mouth could represent the magnitude of another variable. 
 ![image](https://github.com/ilaydacelikk/Chernoff-/assets/139812573/957bde16-ee3f-47b7-ad2d-3150cd0452b1)
 
 
-<img width="500" height="500" src="https://github.com/ilaydacelikk/Chernoff-/assets/139812573/957bde16-ee3f-47b7-ad2d-3150cd0452b1">
+<img width="1000" height="900" src="https://github.com/ilaydacelikk/Chernoff-/assets/139812573/957bde16-ee3f-47b7-ad2d-3150cd0452b1">
